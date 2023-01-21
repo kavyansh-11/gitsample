@@ -1,1 +1,1 @@
-Thus is git samp2.
+Thus is git samp2 of subbranch.
